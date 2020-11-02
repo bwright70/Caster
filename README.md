@@ -49,7 +49,7 @@ The second assignment was to create a caster mount. The Base's dementions were 1
 
 ### Image
 
-![Base and Mount](Photos/Screenshot 2020-09-29 at 3.42.06 PM.png)
+![Base and Mount](Photos/Screenshot2020-09-29at3.42.06 PM.png)
 
 ### Reflection
 
