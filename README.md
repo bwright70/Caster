@@ -65,11 +65,24 @@ Ohshape is awesome. I found it really helpful to rename all my sketches.  It is 
 
 ### Description
 
+The third assignment was to create a fork. I created the fork within the Base and mount sketch because they went together. The fork was an 80mm (diameter) circle extruded 8mm. two addition extructions were added on each face. A 40mm x 5mm rectangle 15mm from the origin and 20mm (diameter) cylinder. Rectagle was extruded 75mm and mirrored over the front plane. An additional 15mm (diameter) circle was added inside the previous 20mm circle and the 5mm difference was extruded 60mm. Fillets and chamfers were added to make the final look more poilshed 
+
 ### Evidence
+
+[Base, Mount and Fork in Onshape](https://cvilleschools.onshape.com/documents/eb1ec979234123dfbac6cd01/w/f45771fda026ed7b0aa8d94f/e/fb689f8e58da02a3bddade3d)
 
 ### Image
 
+
+
 ### Reflection
+
+This assignent, while more difficult than the base or mount was still very easy. I learned about:
+* Mirror 
+* Fillet (shortcut **Shift-f**)
+* Chamfer
+
+Ohshape is awesome. I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
 
 ---
 
