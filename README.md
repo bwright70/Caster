@@ -45,9 +45,11 @@ The second assignment was to create a caster mount. The Base's dementions were 1
 
 ### Evidence
 
-![Base and Mount in Onshape](https://cvilleschools.onshape.com/documents/eb1ec979234123dfbac6cd01/w/f45771fda026ed7b0aa8d94f/e/fb689f8e58da02a3bddade3d)
+[Base and Mount in Onshape](https://cvilleschools.onshape.com/documents/eb1ec979234123dfbac6cd01/w/f45771fda026ed7b0aa8d94f/e/fb689f8e58da02a3bddade3d)
 
 ### Image
+
+![Base and Mount](Screenshot 2020-09-29 at 3.42.06 PM.png)
 
 ### Reflection
 
