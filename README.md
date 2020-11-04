@@ -167,8 +167,8 @@ Ohshape is awesome. I found it really helpful to rename all my sketches.  It is 
 ### Description 
 
 I assembled all the part studios into Sub-Assemblies. This included the three different part studios 
-* [Base](#Base) [Mount](#Mount) [Fork](#Fork)
-* [Tire](#Tire) [Wheel](#Wheel)[Bearings](#AxleCollarBearings)
+* [Base](#Base), [Mount](#Mount), and [Fork](#Fork)
+* [Tire](#Tire), [Wheel](#Wheel), and [Bearings](#AxleCollarBearings)
 * [Axle and Collar](#AxleCollarBearings)
 
 ### Evidence
