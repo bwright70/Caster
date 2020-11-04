@@ -91,11 +91,23 @@ Ohshape is awesome. I found it really helpful to rename all my sketches.  It is 
 
 ### Description
 
+The fourth assignment was the tire. This was the first part I made in a different part studio because it's dementions were not built off the others in any way
+
 ### Evidence
+
+[Tire and Wheel](https://cvilleschools.onshape.com/documents/0dc5ac7a0b07280b3f48b3d8/w/bfaa24852eea8e5598be4f29/e/5cfdc0f5068694eb2c2f06d1)
 
 ### Image
 
+
+
 ### Reflection
+
+This assignment was harder than the fork but still not difficult. In this assignment I learned:
+* How to make a trapezoid 
+* Revolve 
+
+Ohshape is awesome. I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
 
 ---
 
