@@ -91,7 +91,7 @@ Ohshape is awesome. I found it really helpful to rename all my sketches.  It is 
 
 ### Description
 
-The fourth assignment was the tire. This was the first part I made in a different part studio because it's dementions were not built off the others in any way
+The fourth assignment was the tire. This was the first part I made in a different part studio because it's dementions were not built off the others in any way.
 
 ### Evidence
 
@@ -112,15 +112,26 @@ Ohshape is awesome. I found it really helpful to rename all my sketches.  It is 
 ---
 
 
-## Wheel
+## Wheel 
 
 ### Description
 
+The fifth assignent was the wheel which is the support structure for the tire. It was built in the same part studio as the tire. 
+
 ### Evidence
+
+[Tire and Wheel](https://cvilleschools.onshape.com/documents/0dc5ac7a0b07280b3f48b3d8/w/bfaa24852eea8e5598be4f29/e/5cfdc0f5068694eb2c2f06d1)
 
 ### Image
 
+
+
 ### Reflection
+
+This assignment was the hardest of all the assginments. The dementions were weird and it took me a couple tries to figure out exactly what to do but it was still alright. In this assignment I learned:
+* Construction Lines (**L + Q**)
+
+Ohshape is awesome. I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
 
 ---
 
