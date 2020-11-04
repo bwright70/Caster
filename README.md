@@ -173,9 +173,21 @@ I assembled all the part studios into Sub-Assemblies. This included the three di
 
 ### Evidence
 
+[Base Assembly](https://cvilleschools.onshape.com/documents/eb1ec979234123dfbac6cd01/w/f45771fda026ed7b0aa8d94f/e/14a2e6d3a86e87268065ea39)
+[Tire and Wheel](https://cvilleschools.onshape.com/documents/0dc5ac7a0b07280b3f48b3d8/w/bfaa24852eea8e5598be4f29/e/5cfdc0f5068694eb2c2f06d1)
+[Axel and Collar](https://cvilleschools.onshape.com/documents/47862d551122b1abc2f083fa/w/94fa00ae98fc5a22f3b7da9c/e/765792dbb89ee122c13a92e6)
+
 ### Image
+
+
 
 ### Reflection
 
+This assignment introduced Mates which required a very long assignment to complete. Luckily mates are fairly easy in onshape even easier than other CAD programs. In this assignment I learned:
+* Fasten Mate (**M**)
+* Revolute Mate (also **M**)
+
+Ohshape is awesome. I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
 
 ---
+
