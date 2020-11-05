@@ -10,6 +10,7 @@ It won't work go to the folder
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
 * [Sub-Assembly](#Sub-Assembly)
+* [Assembly]
 
 ## Base
 
