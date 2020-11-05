@@ -51,7 +51,7 @@ The second assignment was to create a caster mount. The Base's dementions were 1
 
 ### Image
 
-![Screenshot 2020-09-29 at 3.42.06 PM](Photos/Screenshot 2020-09-29 at 3.42.06 PM.png)
+![Mount](Photos/Screenshot%202020-09-29%20at%203.42.06%20PM.png)
 
 ### Reflection
 
