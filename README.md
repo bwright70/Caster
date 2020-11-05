@@ -141,12 +141,13 @@ Ohshape is awesome. I found it really helpful to rename all my sketches.  It is 
 
 ### Description
 
-The axel and collar were made as a seperate parts document, but the bearings/washer were made as a part of the tire and wheel.  
+The axel and collar were made as a seperate parts in a document, the bearings were made as a part of the tire and wheel, and the Washer was it's own part  
 
 ### Evidence
 
 [Axel and Collar](https://cvilleschools.onshape.com/documents/47862d551122b1abc2f083fa/w/94fa00ae98fc5a22f3b7da9c/e/765792dbb89ee122c13a92e6)
 [Tire and Wheel](https://cvilleschools.onshape.com/documents/0dc5ac7a0b07280b3f48b3d8/w/bfaa24852eea8e5598be4f29/e/5cfdc0f5068694eb2c2f06d1)
+[Washer](https://cvilleschools.onshape.com/documents/68b3878f274b64ef7c4ace25/w/493d0d430c3c58274bb743b4/e/e2fd066f82516443b12b5e91)
 
 ### Image
 
@@ -191,3 +192,16 @@ Ohshape is awesome. I found it really helpful to rename all my sketches.  It is 
 
 ---
 
+
+## Assembly
+
+### Description
+
+### Evidence
+
+### Image
+
+### Reflection
+
+
+---
