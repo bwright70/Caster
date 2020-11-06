@@ -101,7 +101,7 @@ The fourth assignment was the tire. This was the first part I made in a differen
 
 ### Image
 
-
+![Tire](Photos/Screenshot%202020-10-02%20at%2010.45.07%20AM.png)
 
 ### Reflection
 
@@ -126,7 +126,7 @@ The fifth assignent was the wheel which is the support structure for the tire. I
 
 ### Image
 
-
+![Wheel](Photos/Screenshot%202020-10-06%20at%204.04.45%20PM.png)
 
 ### Reflection
 
@@ -152,7 +152,9 @@ The axel and collar were made as a seperate parts in a document, the bearings we
 
 ### Image
 
-
+![Washer](Photos/Screenshot%202020-10-11%20at%2010.45.02%20PM.png)
+![Other Washer](Photos/Screenshot%202020-10-11%20at%2010.45.24%20PM.png)
+![Axel and Collar](Photos/Screenshot%202020-10-11%20at%2010.45.36%20PM.png)
 
 ### Reflection
 
@@ -179,10 +181,6 @@ I assembled all the part studios into Sub-Assemblies. This included the three di
 * [Tire and Wheel](https://cvilleschools.onshape.com/documents/0dc5ac7a0b07280b3f48b3d8/w/bfaa24852eea8e5598be4f29/e/5cfdc0f5068694eb2c2f06d1)
 * [Axel and Collar](https://cvilleschools.onshape.com/documents/47862d551122b1abc2f083fa/w/94fa00ae98fc5a22f3b7da9c/e/765792dbb89ee122c13a92e6)
 
-### Image
-
-
-
 ### Reflection
 
 This assignment introduced Mates which required a very long assignment to complete. Luckily mates are fairly easy in onshape even easier than other CAD programs. In this assignment I learned:
@@ -198,11 +196,20 @@ Ohshape is awesome. I found it really helpful to rename all my sketches.  It is 
 
 ### Description
 
+I made a new document and brought all the assembled parts into it. Using fix and revolute mates I asslembled all the parts into the final caster.
+
 ### Evidence
+
+* [Caster Assembly](https://cvilleschools.onshape.com/documents/ba9e080513c2fda5a206d62f/w/4ca238ab227ee2db86a4b9af/e/7fc9c97d8c430da708703806)
 
 ### Image
 
+![Assembly](Photos/Screenshot%202020-11-05%20at%203.52.39%20PM.png)
+
 ### Reflection
 
+This was the final assignment in the caster assembly it wasn't very hard and I finished it pretty quickly 
+
+Ohshape is awesome. I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
 
 ---
