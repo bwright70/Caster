@@ -10,7 +10,7 @@ It won't work go to the folder
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
 * [Sub-Assembly](#Sub-Assembly)
-* [Assembly]
+* [Assembly](#Assembly)
 
 ## Base
 
@@ -75,7 +75,7 @@ The third assignment was to create a fork. I created the fork within the Base an
 
 ### Image
 
-
+![Fork](Photos/Screenshot%202020-10-01%20at%204.23.58%20PM.png)
 
 ### Reflection
 
